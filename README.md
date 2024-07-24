@@ -2,8 +2,8 @@
 
 I've spent the last decade working in data analysis and business intelligence where I've produced reporting and insights for financial institutions. Having completed a Masters of Applied Data Science, this profile serves as a central hub for my personal projects and those completed for friends.
 
-** Languages:** SQL, Python, R
-** Tools:** BI Tools (Yellowfin, Tableau)
+**Languages:** SQL, Python, R
+**Tools:** BI Tools (Yellowfin, Tableau)
             Data Visualisation (Matplotlib, plotly, ggplot2, Shiny)
 
 Click [here](https://fluxequalsrad.github.io) to view my portfolio.
