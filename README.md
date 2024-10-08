@@ -9,9 +9,10 @@ Click [here](https://fluxequalsrad.github.io) to view my portfolio.
 **Languages:**  
 Python, R, SQL  
 
-**Tools:**  
+**Tools:**
 BI Tools (Yellowfin, Tableau)  
 Data Visualisation (Matplotlib, plotly, ggplot2, Shiny)  
+Machine Learning (scikit-learn, PyCharm)
 
 
 <!--
