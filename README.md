@@ -1,21 +1,15 @@
 ## Hi, I'm Simon 👋
 
-##### About Me
-I've spent the last decade working in data analysis and business intelligence where I've produced reporting and insights for financial institutions. Having completed a Masters of Applied Data Science, this profile serves as a central hub for my personal projects and those I've completed for friends.
+### About Me
+I'm a data scientist and data engineer working in media and marketing. Day to day that means pulling data from advertising platform APIs, building dbt models on Snowflake and doing statistical analysis and market mix modelling for clients. Before that, I spent a decade in analytics and BI for financial institutions.
 
-Click [here](https://fluxequalsrad.github.io) to view my portfolio.  
-  
-##
-**Languages:**  
-Python, R, SQL  
-
-**Tools:**  
-Machine Learning (scikit-learn, NLTK, TensorFlow)
-BI Tools (Yellowfin, Tableau, PowerBI)  
-Data Visualisation (Matplotlib, Plotly, ggplot2, Shiny)
-
+This profile is where I put the things I build. Some things are useful, some things are just funny but every time I go to the pub with mates I leave with another idea for something that one of them will find useful or give them a laugh. My project backlog is large!
+   
+**Stack:** Python · SQL · R · dbt · Snowflake
 
 <!--
+ADD PORTFOLIO BACK IN OR LINK TO WEBSITE ONCE SOMETHING WORTH SEEING EXISTS
+[Portfolio](https://fluxequalsrad.github.io)
 **fluxequalsrad/fluxequalsrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
